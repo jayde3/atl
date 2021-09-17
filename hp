@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <title>All Things Labor</title>
+    <script src="https://kit.fontawesome.com/4b28cf2975.js" crossorigin="anonymous"></script>
+    <style>
+      body {
+  font-family:Monospace; text-align:center; /* font */
+}
+
+img {
+  border: 1px solid #ddd; /* Gray border */
+  border-radius: 4px;  /* Rounded border */
+  padding: 5px; /* Some padding */
+  width: 150px; /* Set a small width */
+}
+
+/* unvisited link */
+a:link {
+  color: hotpink;
+  text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+  color: purple;
+}
+
+/* mouse over link */
+a:hover {
+  color: yellow;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+}
+    </style>
+  </head>
+  <body>
+    <img src="https://i.imgur.com/s20gOBW.jpg">
+    <br>
+    <br>
+    <h2>Sorry, we're under construction...</h2>
+    <br>
+    <h3>In the meantime, check out us out at the links below!</h3>
+    <p><a href="https://vm.tiktok.com/ZMRQSnsxW/">Tik Tok</a>
+      <i class="fab fa-tiktok"></i>
+    </p>
+    <p><a href="https://mobile.twitter.com/allthingslabor_">Twitter</a>
+      <i class="fab fa-twitter"></i>
+    </p>
+    <p><a href="https://workerorganizing.org/talk-with-an-organizer/?_gl=1*18l1ws9*_ga*SFA5ZjRnMmRsTXlWbmRCN0FvNEZpaVVrS2ZaN1A5VVc4SWZZN2tkdXpmMXFOT0ZfYkg5bTByZjJCamZ1SnVvZw..">Want to unionize ur workplace? Start here</a></p>
+    <p><a href="https://youtu.be/yR7YT7sAZbY">Bernie Sanders explains unions</a></p>
+    <p><a href="https://aflcio.org/what-unions-do">What unions do</a></p>
+    <p><a href="https://www.nlrb.gov/about-nlrb/rights-we-protect/the-law/interfering-with-employee-rights-section-7-8a1">Your rights when unionizing</a></p>
+    <p><a href="https://pro-act.dsausa.org/">Learn more about the PRO Act</a></p>
+    <p><a href="https://venmo.com/code?user_id=1816471005036544763">Supporting my labor</a></p>
+    <br>
+    <h3>Donate</h3>
+    <p><a href="https://www.knowyourrightscamp.com/">Know Your Rights Camp</a></p>
+  </body>
+  <footer>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    © 2021 All Things Labor
+  </footer>
+</html>
